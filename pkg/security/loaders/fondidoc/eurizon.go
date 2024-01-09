@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/enrichman/portfolio-perfomance/pkg/security"
+	"github.com/UnMarco123/portfolio-perfomance/pkg/security"
 )
 
 type Eurizon struct {
