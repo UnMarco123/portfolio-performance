@@ -10,11 +10,11 @@ import (
 	"time"
 
 	"github.com/charmbracelet/log"
-	"github.com/enrichman/portfolio-perfomance/pkg/security"
-	"github.com/enrichman/portfolio-perfomance/pkg/security/loaders/borsaitaliana"
-	"github.com/enrichman/portfolio-perfomance/pkg/security/loaders/fondidoc"
-	"github.com/enrichman/portfolio-perfomance/pkg/security/loaders/fonte"
-	"github.com/enrichman/portfolio-perfomance/pkg/security/loaders/secondapensione"
+	"github.com/UnMarco123/portfolio-perfomance/pkg/security"
+	"github.com/UnMarco123/portfolio-perfomance/pkg/security/loaders/borsaitaliana"
+	"github.com/UnMarco123/portfolio-perfomance/pkg/security/loaders/fondidoc"
+	"github.com/UnMarco123/portfolio-perfomance/pkg/security/loaders/fonte"
+	"github.com/UnMarco123/portfolio-perfomance/pkg/security/loaders/secondapensione"
 )
 
 func main() {
