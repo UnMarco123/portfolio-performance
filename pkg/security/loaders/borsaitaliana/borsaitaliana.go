@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/enrichman/portfolio-perfomance/pkg/security"
+	"github.com/UnMarco123/portfolio-perfomance/pkg/security"
 )
 
 type BorsaItalianaQuoteLoader struct {
